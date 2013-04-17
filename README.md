@@ -1,4 +1,6 @@
-retina-switch
-=============
+Alfred Workflows
+================
 
-Alfred workflow to switch between retina and maximal resolution on a 15" MacBook Retina (uses Accessibility GUI)
+A few usefull workflows.
+
+If a workflow is based on existing one, credits will be in the appropriate ReadMe file and the workflow itself.
